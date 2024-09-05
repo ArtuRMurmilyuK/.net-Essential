@@ -1,0 +1,15 @@
+D:\.net-Essential\L1_Classes\L1_Classes\bin\Debug\net8.0\L1_Classes.exe
+D:\.net-Essential\L1_Classes\L1_Classes\bin\Debug\net8.0\L1_Classes.deps.json
+D:\.net-Essential\L1_Classes\L1_Classes\bin\Debug\net8.0\L1_Classes.runtimeconfig.json
+D:\.net-Essential\L1_Classes\L1_Classes\bin\Debug\net8.0\L1_Classes.dll
+D:\.net-Essential\L1_Classes\L1_Classes\bin\Debug\net8.0\L1_Classes.pdb
+D:\.net-Essential\L1_Classes\L1_Classes\obj\Debug\net8.0\L1_Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net-Essential\L1_Classes\L1_Classes\obj\Debug\net8.0\L1_Classes.AssemblyInfoInputs.cache
+D:\.net-Essential\L1_Classes\L1_Classes\obj\Debug\net8.0\L1_Classes.AssemblyInfo.cs
+D:\.net-Essential\L1_Classes\L1_Classes\obj\Debug\net8.0\L1_Classes.csproj.CoreCompileInputs.cache
+D:\.net-Essential\L1_Classes\L1_Classes\obj\Debug\net8.0\L1_Classes.sourcelink.json
+D:\.net-Essential\L1_Classes\L1_Classes\obj\Debug\net8.0\L1_Classes.dll
+D:\.net-Essential\L1_Classes\L1_Classes\obj\Debug\net8.0\refint\L1_Classes.dll
+D:\.net-Essential\L1_Classes\L1_Classes\obj\Debug\net8.0\L1_Classes.pdb
+D:\.net-Essential\L1_Classes\L1_Classes\obj\Debug\net8.0\L1_Classes.genruntimeconfig.cache
+D:\.net-Essential\L1_Classes\L1_Classes\obj\Debug\net8.0\ref\L1_Classes.dll
