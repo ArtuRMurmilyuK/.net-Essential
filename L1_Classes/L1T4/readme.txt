@@ -1,0 +1,10 @@
+- Create the Point and Shape classes. 
+- The Point class must store two integer fields and one string field. 
+- Create three properties using one of the get accessor methods. 
+- Create a custom constructor, in the body of which initialize the field values. 
+- arguments. The drawing class must match constructors that accept from 3 to 5. 
+- arguments of type Point. 
+- Create two methods: double LongSide(Point A, Point B), which calculates the length. 
+- sides of a polygon; void PerimeterCalculator(), which calculates the perimeter 
+- polygon. 
+- Write a program that displays the name and perimeter of a polygon.

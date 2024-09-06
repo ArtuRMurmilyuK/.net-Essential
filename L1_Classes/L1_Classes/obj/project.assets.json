@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.net-Essential\\L1_Classes\\L1_Classes\\L1_Classes.csproj",
-      "projectName": "L1_Classes",
-      "projectPath": "D:\\.net-Essential\\L1_Classes\\L1_Classes\\L1_Classes.csproj",
+      "projectUniqueName": "D:\\.net-Essential\\L1_Classes\\L1_Classes\\L1T2.csproj",
+      "projectName": "L1T2",
+      "projectPath": "D:\\.net-Essential\\L1_Classes\\L1_Classes\\L1T2.csproj",
       "packagesPath": "C:\\Users\\Lordi008\\.nuget\\packages\\",
       "outputPath": "D:\\.net-Essential\\L1_Classes\\L1_Classes\\obj\\",
       "projectStyle": "PackageReference",

@@ -3,16 +3,60 @@
   "WorkspaceRootPath": "D:\\.net-Essential\\L1_Classes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0CB06E72-C18F-4A70-AC86-9EB97E79F543}|L1_Classes\\L1_Classes.csproj|d:\\.net-essential\\l1_classes\\l1_classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CB06E72-C18F-4A70-AC86-9EB97E79F543}|L1_Classes\\L1_Classes.csproj|solutionrelative:l1_classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA5998B5-3BFF-4822-9533-080B7013905D}|L1T4\\L1T4.csproj|d:\\.net-essential\\l1_classes\\l1t4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5998B5-3BFF-4822-9533-080B7013905D}|L1T4\\L1T4.csproj|solutionrelative:l1t4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CB06E72-C18F-4A70-AC86-9EB97E79F543}|L1_Classes\\L1_Classes.csproj|d:\\.net-essential\\l1_classes\\l1_classes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CB06E72-C18F-4A70-AC86-9EB97E79F543}|L1_Classes\\L1_Classes.csproj|solutionrelative:l1_classes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA5998B5-3BFF-4822-9533-080B7013905D}|L1T4\\L1T4.csproj|d:\\.net-essential\\l1_classes\\l1t4\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5998B5-3BFF-4822-9533-080B7013905D}|L1T4\\L1T4.csproj|solutionrelative:l1t4\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CB06E72-C18F-4A70-AC86-9EB97E79F543}|L1_Classes\\L1_Classes.csproj|d:\\.net-essential\\l1_classes\\l1_classes\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{0CB06E72-C18F-4A70-AC86-9EB97E79F543}|L1_Classes\\L1_Classes.csproj|solutionrelative:l1_classes\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{DA5998B5-3BFF-4822-9533-080B7013905D}|L1T4\\L1T4.csproj|d:\\.net-essential\\l1_classes\\l1t4\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5998B5-3BFF-4822-9533-080B7013905D}|L1T4\\L1T4.csproj|solutionrelative:l1t4\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5998B5-3BFF-4822-9533-080B7013905D}|L1T4\\L1T4.csproj|d:\\.net-essential\\l1_classes\\l1t4\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA5998B5-3BFF-4822-9533-080B7013905D}|L1T4\\L1T4.csproj|solutionrelative:l1t4\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0F4699-CFCD-4D52-AE4D-55083C9EEA2D}|L1T3\\L1T3.csproj|d:\\.net-essential\\l1_classes\\l1t3\\title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0F4699-CFCD-4D52-AE4D-55083C9EEA2D}|L1T3\\L1T3.csproj|solutionrelative:l1t3\\title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0F4699-CFCD-4D52-AE4D-55083C9EEA2D}|L1T3\\L1T3.csproj|d:\\.net-essential\\l1_classes\\l1t3\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0F4699-CFCD-4D52-AE4D-55083C9EEA2D}|L1T3\\L1T3.csproj|solutionrelative:l1t3\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0F4699-CFCD-4D52-AE4D-55083C9EEA2D}|L1T3\\L1T3.csproj|d:\\.net-essential\\l1_classes\\l1t3\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0F4699-CFCD-4D52-AE4D-55083C9EEA2D}|L1T3\\L1T3.csproj|solutionrelative:l1t3\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0F4699-CFCD-4D52-AE4D-55083C9EEA2D}|L1T3\\L1T3.csproj|d:\\.net-essential\\l1_classes\\l1t3\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CF0F4699-CFCD-4D52-AE4D-55083C9EEA2D}|L1T3\\L1T3.csproj|solutionrelative:l1t3\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0F4699-CFCD-4D52-AE4D-55083C9EEA2D}|L1T3\\L1T3.csproj|d:\\.net-essential\\l1_classes\\l1t3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0F4699-CFCD-4D52-AE4D-55083C9EEA2D}|L1T3\\L1T3.csproj|solutionrelative:l1t3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0F4699-CFCD-4D52-AE4D-55083C9EEA2D}|L1T3\\L1T3.csproj|d:\\.net-essential\\l1_classes\\l1t3\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0F4699-CFCD-4D52-AE4D-55083C9EEA2D}|L1T3\\L1T3.csproj|solutionrelative:l1t3\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB06E72-C18F-4A70-AC86-9EB97E79F543}|L1_Classes\\L1T2.csproj|d:\\.net-essential\\l1_classes\\l1_classes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CB06E72-C18F-4A70-AC86-9EB97E79F543}|L1_Classes\\L1T2.csproj|solutionrelative:l1_classes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0F4699-CFCD-4D52-AE4D-55083C9EEA2D}|L1T3\\L1T3.csproj|d:\\.net-essential\\l1_classes\\l1t3\\l1t3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF0F4699-CFCD-4D52-AE4D-55083C9EEA2D}|L1T3\\L1T3.csproj|solutionrelative:l1t3\\l1t3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB06E72-C18F-4A70-AC86-9EB97E79F543}|L1_Classes\\L1T2.csproj|d:\\.net-essential\\l1_classes\\l1_classes\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0CB06E72-C18F-4A70-AC86-9EB97E79F543}|L1_Classes\\L1T2.csproj|solutionrelative:l1_classes\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB06E72-C18F-4A70-AC86-9EB97E79F543}|L1_Classes\\L1T2.csproj|d:\\.net-essential\\l1_classes\\l1_classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CB06E72-C18F-4A70-AC86-9EB97E79F543}|L1_Classes\\L1T2.csproj|solutionrelative:l1_classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,6 +75,141 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "D:\\.net-Essential\\L1_Classes\\L1T4\\Figure.cs",
+              "RelativeDocumentMoniker": "L1T4\\Figure.cs",
+              "ToolTip": "D:\\.net-Essential\\L1_Classes\\L1T4\\Figure.cs",
+              "RelativeToolTip": "L1T4\\Figure.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:48:21.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Point.cs",
+              "DocumentMoniker": "D:\\.net-Essential\\L1_Classes\\L1T4\\Point.cs",
+              "RelativeDocumentMoniker": "L1T4\\Point.cs",
+              "ToolTip": "D:\\.net-Essential\\L1_Classes\\L1T4\\Point.cs",
+              "RelativeToolTip": "L1T4\\Point.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:48:05.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "readme.txt",
+              "DocumentMoniker": "D:\\.net-Essential\\L1_Classes\\L1T4\\readme.txt",
+              "RelativeDocumentMoniker": "L1T4\\readme.txt",
+              "ToolTip": "D:\\.net-Essential\\L1_Classes\\L1T4\\readme.txt",
+              "RelativeToolTip": "L1T4\\readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-06T07:46:06.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net-Essential\\L1_Classes\\L1T4\\Program.cs",
+              "RelativeDocumentMoniker": "L1T4\\Program.cs",
+              "ToolTip": "D:\\.net-Essential\\L1_Classes\\L1T4\\Program.cs",
+              "RelativeToolTip": "L1T4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:44:26.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Content.cs",
+              "DocumentMoniker": "D:\\.net-Essential\\L1_Classes\\L1T3\\Content.cs",
+              "RelativeDocumentMoniker": "L1T3\\Content.cs",
+              "ToolTip": "D:\\.net-Essential\\L1_Classes\\L1T3\\Content.cs",
+              "RelativeToolTip": "L1T3\\Content.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowBAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:34:10.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\.net-Essential\\L1_Classes\\L1T3\\Author.cs",
+              "RelativeDocumentMoniker": "L1T3\\Author.cs",
+              "ToolTip": "D:\\.net-Essential\\L1_Classes\\L1T3\\Author.cs",
+              "RelativeToolTip": "L1T3\\Author.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowBAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:33:57.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Title.cs",
+              "DocumentMoniker": "D:\\.net-Essential\\L1_Classes\\L1T3\\Title.cs",
+              "RelativeDocumentMoniker": "L1T3\\Title.cs",
+              "ToolTip": "D:\\.net-Essential\\L1_Classes\\L1T3\\Title.cs",
+              "RelativeToolTip": "L1T3\\Title.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowBAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:33:46.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\.net-Essential\\L1_Classes\\L1T3\\Book.cs",
+              "RelativeDocumentMoniker": "L1T3\\Book.cs",
+              "ToolTip": "D:\\.net-Essential\\L1_Classes\\L1T3\\Book.cs",
+              "RelativeToolTip": "L1T3\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:33:02.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "readme.txt",
+              "DocumentMoniker": "D:\\.net-Essential\\L1_Classes\\L1T3\\readme.txt",
+              "RelativeDocumentMoniker": "L1T3\\readme.txt",
+              "ToolTip": "D:\\.net-Essential\\L1_Classes\\L1T3\\readme.txt",
+              "RelativeToolTip": "L1T3\\readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-05T08:31:41.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "L1T3.csproj",
+              "DocumentMoniker": "D:\\.net-Essential\\L1_Classes\\L1T3\\L1T3.csproj",
+              "RelativeDocumentMoniker": "L1T3\\L1T3.csproj",
+              "ToolTip": "D:\\.net-Essential\\L1_Classes\\L1T3\\L1T3.csproj",
+              "RelativeToolTip": "L1T3\\L1T3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-05T08:30:32.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net-Essential\\L1_Classes\\L1T3\\Program.cs",
+              "RelativeDocumentMoniker": "L1T3\\Program.cs",
+              "ToolTip": "D:\\.net-Essential\\L1_Classes\\L1T3\\Program.cs",
+              "RelativeToolTip": "L1T3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:30:22.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "D:\\.net-Essential\\L1_Classes\\L1_Classes\\Rectangle.cs",
               "RelativeDocumentMoniker": "L1_Classes\\Rectangle.cs",
@@ -38,12 +217,11 @@
               "RelativeToolTip": "L1_Classes\\Rectangle.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T08:00:55.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T08:00:55.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "readme.txt",
               "DocumentMoniker": "D:\\.net-Essential\\L1_Classes\\L1_Classes\\readme.txt",
               "RelativeDocumentMoniker": "L1_Classes\\readme.txt",
@@ -51,12 +229,11 @@
               "RelativeToolTip": "L1_Classes\\readme.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-09-05T07:50:58.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T07:50:58.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\.net-Essential\\L1_Classes\\L1_Classes\\Program.cs",
               "RelativeDocumentMoniker": "L1_Classes\\Program.cs",
@@ -64,8 +241,7 @@
               "RelativeToolTip": "L1_Classes\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T07:49:05.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T07:49:05.594Z"
             }
           ]
         }

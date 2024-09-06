@@ -1,0 +1,5 @@
+- Using Visual Studio, create a project using the Console Application template.  
+- Required:  
+- Create a Book class. Create classes Title, Author and Content, each of which should contain one string field and a void Show() method.  
+- Implement the ability to add the book title, author's name and content to the book. 
+- Use the Show() method to display the book's title, author's name, and contents on the screen in different colors.
